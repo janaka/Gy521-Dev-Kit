@@ -4,4 +4,7 @@ Original version by arduino.cc user "Krodal".
 // Open Source / Public Domain
 
 
-GY521 breakout board for MPU6050 Accelerometer and Gyroscope with temperature sensor.
+
+Upload this code to an Arduino. Tested on an Uno but should work on others. 
+
+Test that it's working by opening the Serial Monitor in the Arduino IDE
